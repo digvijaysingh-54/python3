@@ -11,7 +11,7 @@ dev_excuses = [
     "You must have a corrupted database.",
     "It was working yesterday.",
     "I didn't write that part of the code.",
-    "That's a hardware problem.",
+    "That's a hardware problem you know right .?",
     "I can't reproduce the problem.",
     "The client must have done something wrong.",
     "I have never seen that before."
@@ -52,4 +52,5 @@ def images_frontend(filename):
 if __name__ == '__main__':
 
     app.run(host="0.0.0.0")
+
 
